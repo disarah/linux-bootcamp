@@ -6,3 +6,10 @@ earlier commit. Instead of having to rewrite his entire project, he was
 able to just restart the buggy feature.
 
 And then he ate some snacks and he was able to code for 50 years. The End.
+Once upon a time there was a programmer. But he didn't ever use git! After all,
+he was a good programmer and didn't need to.
+
+But one day, he made a mistake and wrote buggy code. He searched for hours for
+his bug, but couldn't figure it out.
+
+So then he failed the class. Next time he started using git and has now come to love git even though it's confusing. The End.
